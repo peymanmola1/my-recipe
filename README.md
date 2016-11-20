@@ -4,7 +4,7 @@
 
 #### Preparation time:less than 30 mins
 #### Cooking time:30 mins to 1 hour
-### Serves:4
+#### Serves:4
 
 ## Ingredients
 * 2 tbsp butter, plus extra for frying
