@@ -2,9 +2,9 @@
 
 ![Chicken Pie] (https://github.com/peymanmola1/my-recipe/blob/master/chickenpie_80250_16x9.jpg)
 
-## Preparation time:less than 30 mins
-## Cooking time:30 mins to 1 hour
-## Serves:4
+#### Preparation time:less than 30 mins
+#### Cooking time:30 mins to 1 hour
+### Serves:4
 
 ## Ingredients
 * 2 tbsp butter, plus extra for frying
