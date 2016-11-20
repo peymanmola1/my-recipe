@@ -1,5 +1,7 @@
 # Chicken Pie
 
+![Chicken Pie] (https://github.com/peymanmola1/my-recipe/blob/master/chickenpie_80250_16x9.jpg)
+
 ## Ingredients
 * 2 tbsp butter, plus extra for frying
 * 1 heaped tbsp flour
